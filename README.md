@@ -63,12 +63,14 @@ python app.py
 
 ---
 ```
-##Output
+
+---
+###Output
 
 ![True](True.png)
 
 ![Fake News Detector Screenshot](Fake.png)
-
+---
 
 
 
