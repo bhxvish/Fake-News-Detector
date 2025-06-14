@@ -1,4 +1,4 @@
-# Fake News Generator
+
 # Fake News Detector 
 
 A machine learning project that detects whether a given news article is **real or fake** using **Natural Language Processing (NLP)** techniques. Built with Python, Scikit-learn, and trained using a Passive Aggressive Classifier.
