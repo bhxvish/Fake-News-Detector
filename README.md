@@ -18,7 +18,7 @@ A machine learning project that detects whether a given news article is **real o
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Columns**:
   - `title`: Title of the news article
@@ -31,7 +31,7 @@ A machine learning project that detects whether a given news article is **real o
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Data Preprocessing**:
    - Extract `text` column for features
@@ -64,9 +64,10 @@ python app.py
 ---
 ```
 ##Output
-![True](file:///C:/Users/sbhav/Downloads/Screenshot%202025-06-14%20203721.png)
 
-![Fake News Detector Screenshot](file:///C:/Users/sbhav/Downloads/Screenshot%202025-06-14%20203451.png)
+![True](True.png)
+
+![Fake News Detector Screenshot](Fake.png)
 
 
 
